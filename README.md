@@ -25,6 +25,6 @@ edilmiştir:
 
 ## Teknik Kısım
 * **Python:** Temel geliştirme dili.
-* **SymPy:** Orijinal fonksiyonların $a=0$ Maclaurin noktası etrafında n. dereceden Taylor açılımlarını ve sembolik türevlerini almak için kullanılmıştır.
-* **NumPy:** SymPy ile elde edilen sembolik ifadelerin, `lambdify` fonksiyonu optimize edilerek hızlı çalışan sayısal dizilere (array) dönüştürülmesi için kullanılmıştır.
-* **Matplotlib:** Sinyal hatalarının ve Taylor derecelerinin (hata payı simülasyonlarının) çoklu alt grafiklerde görselleştirilmesi için kullanılmıştır.
+* **SymPy:** Orijinal fonksiyonların a=0 Maclaurin noktası etrafında n. dereceden Taylor açılımlarını ve sembolik türevlerini almak için kullanılmıştır.
+* **NumPy:** SymPy ile elde edilen sembolik ifadelerin, `lambdify` fonksiyonu optimize edilerek hızlı çalışan sayısal dizilere dönüştürülmesi için kullanılmıştır.
+* **Matplotlib:** Sinyal hatalarının ve Taylor derecelerinin hata payı simülasyonlarının çoklu alt grafiklerde görselleştirilmesi için kullanılmıştır.
