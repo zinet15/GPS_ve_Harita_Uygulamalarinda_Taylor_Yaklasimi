@@ -16,7 +16,7 @@ düşük dereceli (1., 3. ve 5. derece) basit polinomlara dönüştürmek ve kon
 ## Kullanılan Modeller ve Fonksiyonlar
 Sistemin farklı atmosferik koşullardaki davranışlarını simüle edebilmek için "Navigasyon Hata Düzeltme Simülatörü" üzerinde üç farklı fonksiyon analiz 
 edilmiştir:
-* **Trigonometrik Fonksiyon ($f(x) = \cos(x)$):** İyonosferdeki periyodik dalgalanmaları ve sinyal frekansındaki salınımları temsil etmek amacıyla
+* **Trigonometrik Fonksiyon ($f(x) = cos(x)$):** İyonosferdeki periyodik dalgalanmaları ve sinyal frekansındaki salınımları temsil etmek amacıyla
 * modellenmiştir.
 * **Polinom Fonksiyonu ($f(x) = 2x^3 - 5x^2 + 4x - 1$):** Atmosferik sistemdeki genel sapma trendlerini ve doğrusal olmayan kaymaları incelemek için
 * teste dahil edilmiştir.
