@@ -1,4 +1,4 @@
-# GPS ve Harita Uygulamalarında Taylor Yaklaşımı ile Sinyal Hata Düzeltimi
+# GPS ve Harita Uygulamalarında Taylor Yaklaşımı 
 
 **Bursa Uludağ Üniversitesi - Matematik Bölümü**  
 **Grup No_2**  
